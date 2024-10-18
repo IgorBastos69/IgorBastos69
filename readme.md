@@ -1,4 +1,4 @@
-### Olá, Sou Zuko 👾 
+### Future Dev 
 ##
 
 [![INSTAGRAM](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lkt.igor)
@@ -18,5 +18,6 @@
 ##
 ### Contato
 - Email: igorbastos048@gmail.com
+- Cell: 31 92008-8750
 
 ### ༼ つ ◕_◕ ༽つ
